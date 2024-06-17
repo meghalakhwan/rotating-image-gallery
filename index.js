@@ -23,4 +23,5 @@ function updateGallery() {
   }, 3000);
 }
 
+
 updateGallery();
